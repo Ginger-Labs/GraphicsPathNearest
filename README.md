@@ -1,5 +1,5 @@
 # Nearest point on a Bezier Curve
-Sample Project For Ginger Lab's Technical Blog Post: [TODO: URL here]
+Sample Project For Ginger Lab's blog post [Notability object selection: adventures in vector graphics](https://gingerlabs.medium.com/notability-object-selection-adventures-in-vector-graphics-e1ed4bbbb4f6)
 
 <img src="/screenshot.png" height=400>
 
